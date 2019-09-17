@@ -1,4 +1,4 @@
-# Coding challenge questions
+# BLAST Coding challenge questions
 
 The pipelines for different sequencing platforms use blast extensively to query sequences against a given database. One of the steps, in an earlier version of a pipeline, heavily relied on blasting to eliminate primer and adaptor sequences from the reads to generate clean and manageable datasets. You are provided with fasta and quality files from a dataset that was generated using 454 sequencing platform. You are required to blast the dataset against the given primer and adaptor sequences and generate output in m8 format. 
 
@@ -87,3 +87,4 @@ Additional question 3: read_id_primer_adaptor_hit.txt
 ### Auxiliary files
 
 All other files.
+
