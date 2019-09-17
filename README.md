@@ -70,7 +70,7 @@ However, the choices are made based on the best educated guess. For example, sho
 
 ### Input files
 
-test.fna and test.qual
+test.fna and test.qual. These two file are in the compressed file: Files_for_test.zip. Users need to decompress the zip file and put the two input files, test.fna and test.qual, under the top level directory, ie., the directory containing the script.
 
 primer and adaptor sequence are hard-coded into the script.
 
