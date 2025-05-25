@@ -33,7 +33,7 @@ In addition, your program needs to generate the following files:
 
 ## Running Environment
 
-The script was written and run only and completely on the symtem: **Windows 7 64 bit professional SP1**. The script is written in Python 3. Since Python is a cross-platform programming language, the script should be able to be run on other platform such Linux and MacOS. If the script or any other files doesn't work on other platforms, perhaps the newline symbols needs to be converted, using NotePad++ or something else.
+The script was written and run only and completely on the system: **Windows 7 64 bit professional SP1**. The script is written in Python 3. Since Python is a cross-platform programming language, the script should be able to be run on other platform such Linux and MacOS. If the script or any other files doesn't work on other platforms, perhaps the newline symbols needs to be converted, using NotePad++ or something else.
 
 
 
